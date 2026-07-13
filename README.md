@@ -10,7 +10,7 @@ By making these scripts accessible to the developer community, we aim to standar
 
 When modeling capital trajectories within our scripts, the engine tracks the stark difference between linear returns and compound growth curves. Over longer timelines, the compound asset curve transitions from gradual movement into rapid growth as interest begins generating its own returns.
 
-<Image src="image_agent_tag_10948288243879207394" alt="Exponential growth curve chart contrasting linear principal growth against the compounding accumulation engine over a 20 year timeline" caption="Compounding Asset Expansion Matrix" />
+<img src="https://www.syncfusion.com/blogs/wp-content/uploads/2025/09/Real-Time-Loan-Calculator-in-WPF-with-Charts-and-DataGrid-1.png" alt="Real-Time Calculator Application Dashboard interface displaying loan distributions and graphical amortization analytics charts." width="100%" />
 
 ---
 
@@ -25,24 +25,22 @@ For the comprehensive interactive suite, visit the main node: **[CalcyFinance Pr
 To analyze specific financial vectors or cross-reference our algorithm calculations with optimized production modules, leverage our targeted utility directories below:
 
 #### 1. Debt Management & Mortgage Allocation Calculators
-*   **[Core Loan Repayment Calculator](https://calcyfinance.com/loan-calculator):** The fundamental engine for evaluating uniform periodic installment costs across standard fixed-term liabilities.
-*   **[Dynamic Amortization Schedule Tool](https://calcyfinance.com/amortization-calculator):** Renders chronological tables detailing the exact point where monthly allocations shift away from lender interest margins and toward real home equity.
-*   **[Advanced Mortgage Comparison Engine](https://calcyfinance.com/mortgage-calculator):** Optimized for real estate analysis, allowing side-by-side comparison of fixed durations, down payment changes, and long-term interest costs.
-*   **[Auto Loan & Lease Evaluation Suite](https://calcyfinance.com/auto-loan-calculator):** Factors in vehicle depreciation trends, regional sales taxes, documentation fees, and down payments to determine true automotive costs.
-*   **[Revolving Credit Card Payoff Planner](https://calcyfinance.com/credit-card-payoff-calculator):** Maps out exact repayment timelines and aggressive payment steps to eliminate high-interest revolving balances.
+*   **[Core Personal Loan Calculator](https://calcyfinance.com/us/personal-loan-calculator):** The fundamental engine for evaluating uniform periodic installment costs across standard fixed-term liabilities.
+*   **[Dynamic Amortization Schedule Tool](https://calcyfinance.com/us/amortization-calculator):** Renders chronological tables detailing the exact point where monthly allocations shift away from lender interest margins and toward real home equity.
+*   **[Advanced Mortgage Comparison Engine](https://calcyfinance.com/us/mortgage-calculator):** Optimized for real estate analysis, allowing side-by-side comparison of fixed durations, down payment changes, and long-term interest costs.
+*   **[Auto Loan & Lease Evaluation Suite](https://calcyfinance.com/us/auto-loan-calculator):** Factors in vehicle depreciation trends, regional sales taxes, documentation fees, and down payments to determine true automotive costs.
+*   **[Revolving Credit Card Payoff Planner](https://calcyfinance.com/us/credit-card-payoff-calculator):** Maps out exact repayment timelines and aggressive payment steps to eliminate high-interest revolving balances.
 
 #### 2. Asset Building & Compound Interest Engines
-*   **[Master Compound Interest Calculator](https://calcyfinance.com/compound-interest-calculator):** The primary engine for projecting growth. It simulates recurring contributions, flexible asset returns, and varying compounding frequencies.
-*   **[Systematic Investment Plan (SIP) Matrix](https://calcyfinance.com/sip-calculator):** Tailored specifically for mutual fund and stock market investors practicing systematic dollar-cost averaging over extended market timelines.
-*   **[Linear Simple Interest Tool](https://calcyfinance.com/simple-interest-calculator):** Designed for basic financial products, short-term certificates of deposit (CDs), or peer-to-peer promissory notes where returns do not compound.
-*   **[Rule of 72 Timeline Projector](https://calcyfinance.com/rule-of-72-calculator):** A high-speed mathematical shortcut engine that calculates the exact years required to double a capital footprint based on a set return profile.
-*   **[Comprehensive Investment Analyzer](https://calcyfinance.com/investment-calculator):** An all-in-one modeling utility built to evaluate multi-tiered investment strategies, capital injections, and long-term targets.
+*   **[Master Compound Interest Calculator](https://calcyfinance.com/us/compound-interest-calculator):** The primary engine for projecting growth. It simulates recurring contributions, flexible asset returns, and varying compounding frequencies.
+*   **[Rule of 72 Timeline Projector](https://calcyfinance.com/us/rule-of-72-calculator):** A high-speed mathematical shortcut engine that calculates the exact years required to double a capital footprint based on a set return profile.
+*   **[Comprehensive Investment Analyzer](https://calcyfinance.com/us/investment-calculator):** An all-in-one modeling utility built to evaluate multi-tiered investment strategies, capital injections, and long-term targets.
 
 #### 3. Small Business Metrics & Operational Analytics
-*   **[Capital Return on Investment (ROI) Tool](https://calcyfinance.com/roi-calculator):** Instantly determines the exact efficiency percentage of business spending relative to the initial capital outlay.
-*   **[Gross & Net Profit Margin Analyzer](https://calcyfinance.com/margin-calculator):** Breaks down pricing structures, inventory markups, and structural overhead costs to protect small business profit health.
-*   **[Sales Tax & VAT Invoicing Calculator](https://calcyfinance.com/sales-tax-calculator):** Streamlines professional transaction workflows by processing localized sales tax additions or extractions instantly.
-*   **[Break-Even Commercial Point Calculator](https://calcyfinance.com/break-even-calculator):** Finds the exact unit volume or billable hour metric required to cover operational fixed costs at a specific market price point.
+*   **[Capital Return on Investment (ROI) Tool](https://calcyfinance.com/us/roi-calculator):** Instantly determines the exact efficiency percentage of business spending relative to the initial capital outlay.
+*   **[Gross & Net Profit Margin Analyzer](https://calcyfinance.com/us/profit-margin-calculator):** Breaks down pricing structures, inventory markups, and structural overhead costs to protect small business profit health.
+*   **[Sales Tax & VAT Invoicing Calculator](https://calcyfinance.com/us/sales-tax-calculator):** Streamlines professional transaction workflows by processing localized sales tax additions or extractions instantly.
+*   **[Break-Even Commercial Point Calculator](https://calcyfinance.com/us/break-even-calculator):** Finds the exact unit volume or billable hour metric required to cover operational fixed costs at a specific market price point.
 
 ---
 
