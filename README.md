@@ -10,7 +10,7 @@ By making these scripts accessible to the developer community, we aim to standar
 
 When modeling capital trajectories within our scripts, the engine tracks the stark difference between linear returns and compound growth curves. Over longer timelines, the compound asset curve transitions from gradual movement into rapid growth as interest begins generating its own returns.
 
-<img src="https://www.syncfusion.com/blogs/wp-content/uploads/2025/09/Real-Time-Loan-Calculator-in-WPF-with-Charts-and-DataGrid-1.png" alt="Real-Time Calculator Application Dashboard interface displaying loan distributions and graphical amortization analytics charts." width="100%" />
+<img src="https://calcyfinance.com/assets/usa-calculators-guide-header.png" alt="Real-Time Calculator Application Dashboard interface displaying loan distributions and graphical amortization analytics charts." width="100%" />
 
 ---
 
